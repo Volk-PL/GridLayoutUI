@@ -12,5 +12,6 @@ week 1:
 creat simple mockup in xD or Pen&Papper
 Delope simple layaout in mobile first approach Html/css/js
 
-1. Got some inspi. Projects saved. Lets rock some pet looader for app.
+Got some inspi. Projects saved. Lets rock some pet looader for app.
+
 */ 
