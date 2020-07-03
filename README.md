@@ -1,5 +1,5 @@
 # GridLayoutUI
-https://codepen.io/Volk-PL/pen/yLYvezz
+
 
 //Idea is simple, built the app with containt social hub for petsiting. User could be a petwoner or petsiter.
 If they connect they could choose petsiter, or post a pet-hug :)
