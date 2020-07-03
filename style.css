@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  
+  display: grid;
+  grid-template-columns: 0.1fr 1fr 0.1fr;
+  grid-template-rows: 0.5fr repeat(6, 1fr) 0.5fr;
+
+}
+
+header{
+  grid-area: 1 / 2 / 2 / 3;
+}
+main {
+  grid-area: 2 / 2 / 3 / 3;
+}
+
+#onas{
+  grid-area: 3 / 2 / 4 / 3;
+  background-color: #F3F3F3;
+}
+#baza{
+  grid-area: 4 / 2 / 5 / 3;
+
+}
+
+#mapa{
+}
+#punkty{
+ background-color: #767676;
+}
+#sklep{
+  grid-area: 5 / 2 / 6 / 3;
+}
+#blog{
+  grid-area: 6 / 2 / 7 / 3;
+}
+#letter{
+  grid-area: 7 / 2 / 8 / 3;
+  background-color: #FF8C41;
+}
+
+footer{
+  grid-area: 8 / 2 / 10 / 3;
+  background-color: #303030;
+}
+
